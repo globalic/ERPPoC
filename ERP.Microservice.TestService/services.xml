@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<services>
+  <service id="1" run="Medseek.Util.MicroServices.Host.exe" args="ERP.Microservice.TestService.dll /broker=$(broker)" />
+</services>
